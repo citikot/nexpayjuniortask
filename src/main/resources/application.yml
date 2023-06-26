@@ -1,0 +1,6 @@
+# Spring Boot configuration
+spring:
+
+# Server configuration
+server:
+  port: 8080
